@@ -1,6 +1,6 @@
 # Makefile for monsterwm - see LICENSE for license and copyright information
 
-VERSION = cookies-git
+VERSION = altlock-git
 WMNAME  = monsterwm
 
 PREFIX ?= /usr/local
